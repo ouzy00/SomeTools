@@ -15,7 +15,7 @@ public class AjaxServlet extends HttpServlet {
 	 * Constructor of the object.
 	 */
 	public AjaxServlet() {
-		super();
+		super(); //测试
 	}
 
 	/**
