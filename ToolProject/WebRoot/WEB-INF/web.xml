@@ -13,7 +13,7 @@
   </servlet> -->
   <servlet>
     <servlet-name>AjaxServlet</servlet-name>
-    <servlet-class>com.ouzy.util.common.AjaxServlet</servlet-class>
+    <servlet-class>com.ouzy.servlet.common.AjaxServlet</servlet-class>
   </servlet>
 
 
