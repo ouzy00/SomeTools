@@ -7,13 +7,13 @@
 <application generated-by="eclipse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_1.xsd">
 
 	<classpath>
-		<dir name="C:/Software/Workspaces/MyEclipse Professional 2014 Workspaces/ToolProject/WebRoot/WEB-INF/classes">
+		<dir name="F:/Project/Git_SomeTools/ToolProject/WebRoot/WEB-INF/classes">
 		</dir>
 	</classpath>
 
 	<web>
 		<link target="/">
-			<dir name="C:/Software/Workspaces/MyEclipse Professional 2014 Workspaces/ToolProject/WebRoot">
+			<dir name="F:/Project/Git_SomeTools/ToolProject">
 			</dir>
 		</link>
 	</web>
