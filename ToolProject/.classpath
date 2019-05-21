@@ -55,5 +55,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/jdom/jdom-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/ftp/commons-net.jar"/>
+	<classpathentry kind="lib" path="lib/ftp/jakarta-oro.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
